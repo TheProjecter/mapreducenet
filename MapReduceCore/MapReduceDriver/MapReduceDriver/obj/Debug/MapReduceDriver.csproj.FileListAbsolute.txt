@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceDriver.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceDriver.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\obj\Debug\MapReduceDriver.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\obj\Debug\MapReduceDriver.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceCore.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceCore.pdb
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\obj\Debug\MapReduceDriver.exe
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\obj\Debug\MapReduceDriver.pdb
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceDriver.exe
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceDriver.pdb
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceCore.dll
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\bin\Debug\MapReduceCore.pdb
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceDriver\MapReduceDriver\obj\Debug\ResolveAssemblyReference.cache

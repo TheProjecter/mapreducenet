@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\bin\Debug\MapReduceCore.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\bin\Debug\MapReduceCore.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\obj\Debug\MapReduceCore.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\obj\Debug\MapReduceCore.pdb
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\obj\Debug\MapReduceCore.dll
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\bin\Debug\MapReduceCore.dll
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\bin\Debug\MapReduceCore.pdb
+C:\Documents and Settings\Peng.Xue\My Documents\Visual Studio 2008\Projects\MapReduceCore\MapReduceCore\obj\Debug\MapReduceCore.pdb

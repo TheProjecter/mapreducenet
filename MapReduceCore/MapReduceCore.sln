@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapReduceCore", "MapReduceCore\MapReduceCore.csproj", "{6A6371A5-719C-4B36-8FC6-EB4C9BB14FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapReduceDriver", "MapReduceDriver\MapReduceDriver\MapReduceDriver.csproj", "{646080FD-4B01-4DCD-9667-647E6827152B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedGrep", "DistributedGrep\DistributedGrep.csproj", "{C4986BAB-4D39-482C-836E-7949485EC043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6371A5-719C-4B36-8FC6-EB4C9BB14FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6371A5-719C-4B36-8FC6-EB4C9BB14FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6371A5-719C-4B36-8FC6-EB4C9BB14FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6371A5-719C-4B36-8FC6-EB4C9BB14FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646080FD-4B01-4DCD-9667-647E6827152B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646080FD-4B01-4DCD-9667-647E6827152B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646080FD-4B01-4DCD-9667-647E6827152B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646080FD-4B01-4DCD-9667-647E6827152B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4986BAB-4D39-482C-836E-7949485EC043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4986BAB-4D39-482C-836E-7949485EC043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4986BAB-4D39-482C-836E-7949485EC043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4986BAB-4D39-482C-836E-7949485EC043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
